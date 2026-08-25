@@ -1,5 +1,5 @@
 # SSG-3050GB 3D Glasses hacking
-bcm20730 based 3d glasses fu(ha)cking
+Hacking of 3D Glasses
 # Map
 Motherboard and part examination at mboard.md
 <br>
