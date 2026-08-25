@@ -25,3 +25,8 @@ BCM20730 : Broadcom SoC. Cortex-M3 based
 24C128A: 16 Kilobytes EEPROM.
 <br>
 uP6671P: PMIC chip.
+<br>
+SoC pinout:
+<div>
+<img src="socpins.png" alt="SoC pins" width="650">
+</div>
