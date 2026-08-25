@@ -16,4 +16,4 @@ The glasses use cr2025 battery.
 SoC is Broadcom BCM20730 based on ARM Cortex-M3
 <br>
 With 16kib flash
-⁰
+<br>
