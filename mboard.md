@@ -28,5 +28,5 @@ uP6671P: PMIC chip.
 <br>
 SoC pinout:
 <div>
-<img src="socpins.png" alt="SoC pins" width="150">
+<img src="socpins.png" alt="SoC pins" width="650">
 </div>
