@@ -1,5 +1,7 @@
-![Main board detailed](20260825_205736.jpg)
-<br>
+<div>
+<img src="mboard.jpg" alt="main board" width="650">
+</div>
+
 # Pads
 (Red) VCC: Name explains it.
 <br>
