@@ -1,11 +1,11 @@
 # SSG-3050GB 3D Glasses hacking
 bcm20730 based 3d glasses fu(ha)cking
 # Map
-Motherboard at mboard.md
-<br>
-Part examination at parts.md
+Motherboard and part examination at mboard.md
 <br>
 Uart at uart.md (wip)
+<br>
+Misc. info at misc.md
 <br>
 Other things will be added.
 # General info
